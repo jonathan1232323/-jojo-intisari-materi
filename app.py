@@ -45,7 +45,7 @@ def intisari_materi(teks, jumlah_poin=5):
 # =========================
 st.set_page_config(page_title="Asisten Pembuat Intisari Materi", page_icon="📝")
 
-st.title("📝 Asisten Peringkas Materi")
+st.title("📝 Asisten Pembuat Intisari Materi")
 st.write("Masukkan materi di bawah ini, lalu pilih jumlah poin intisari:")
 
 # Input teks materi
