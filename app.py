@@ -43,7 +43,7 @@ def intisari_materi(teks, jumlah_poin=5):
 # =========================
 # UI Streamlit
 # =========================
-st.set_page_config(page_title="Asisten Peringkas Materi", page_icon="📝")
+st.set_page_config(page_title="Asisten Pembuat Intisari Materi", page_icon="📝")
 
 st.title("📝 Asisten Peringkas Materi")
 st.write("Masukkan materi di bawah ini, lalu pilih jumlah poin intisari:")
